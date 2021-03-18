@@ -1,0 +1,36 @@
+---
+
+
+S1:
+    hostname: 192.168.31.11
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+
+
+S2:
+    hostname: 192.168.31.12
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+
+
+S3:
+    hostname: 192.168.31.13
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+
+
+S4:
+    hostname: 192.168.31.14
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
